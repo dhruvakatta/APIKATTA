@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="testpol">
+  <CreatedAt>1729640390070</CreatedAt>
+  <LastModifiedAt>1729640390070</LastModifiedAt>
+  <BasePaths>/basepol/</BasePaths>
+  <DisplayName>testpol</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>

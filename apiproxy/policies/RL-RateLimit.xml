@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<SpikeArrest name="RL-RateLimit">
+  <DisplayName>Rate Limit</DisplayName>
+  <Rate>13/minute</Rate>
+</SpikeArrest>
