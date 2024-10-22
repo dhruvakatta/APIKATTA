@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="firsdtpox">
+  <CreatedAt>1729639655292</CreatedAt>
+  <LastModifiedAt>1729639655292</LastModifiedAt>
+  <BasePaths>/nwev/v1</BasePaths>
+  <DisplayName>firsdtpox</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
