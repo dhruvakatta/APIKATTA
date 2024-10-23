@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="busapp1">
+  <CreatedAt>1729676988261</CreatedAt>
+  <LastModifiedAt>1729676988261</LastModifiedAt>
+  <BasePaths>/appmanage/v1</BasePaths>
+  <DisplayName>busapp1</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
