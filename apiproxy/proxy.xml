@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="seaproxy">
+  <CreatedAt>1729679552012</CreatedAt>
+  <LastModifiedAt>1729679552012</LastModifiedAt>
+  <BasePaths>/carbon/v1</BasePaths>
+  <DisplayName>seaproxy</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
