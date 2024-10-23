@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="testapp23oct">
+  <CreatedAt>1729709823701</CreatedAt>
+  <LastModifiedAt>1729709823701</LastModifiedAt>
+  <BasePaths>/accountmanagement/v2</BasePaths>
+  <DisplayName>testapp23oct</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
