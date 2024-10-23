@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<JSONToXML name="JS-JsonToXml">
+  <DisplayName>JSON to XML Conversion</DisplayName>
+  <Source>request.content</Source>
+  <OutputVariable>request.content</OutputVariable>
+</JSONToXML>
