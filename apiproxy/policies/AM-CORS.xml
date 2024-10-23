@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<AssignMessage name="AM-CORS">
+  <DisplayName>CORS Headers</DisplayName>
+  <Add>
+    <Headers>
+      <Header name="Access-Control-Allow-Origin">*</Header>
+      <Header name="Access-Control-Allow-Methods">GET,POST,PUT,DELETE</Header>
+      <Header name="Access-Control-Allow-Headers">origin, x-requested-with, accept, content-type</Header>
+    </Headers>
+  </Add>
+</AssignMessage>
