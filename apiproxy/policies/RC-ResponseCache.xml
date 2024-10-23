@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ResponseCache name="RC-ResponseCache">
+  <DisplayName>Response Cache</DisplayName>
+  <CacheKey>
+    <Prefix>cache</Prefix>
+    <KeyFragment ref="request.uri">path</KeyFragment>
+  </CacheKey>
+  <ExpirySettings/>
+  <ExpiryDate/>
+  <TimeOfDay/>
+  <TimeoutInSec/>
+</ResponseCache>
