@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="mkms">
+  <CreatedAt>1729680476039</CreatedAt>
+  <LastModifiedAt>1729680476039</LastModifiedAt>
+  <BasePaths>/mak/sdf</BasePaths>
+  <DisplayName>mkms</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
