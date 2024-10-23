@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="apptest">
+  <CreatedAt>1729678744861</CreatedAt>
+  <LastModifiedAt>1729678744861</LastModifiedAt>
+  <BasePaths>/testpath/v1</BasePaths>
+  <DisplayName>apptest</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
