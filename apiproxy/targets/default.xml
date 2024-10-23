@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TargetEndpoint name="default">
+  <PreFlow name="PreFlow">
+    <Request/>
+    <Response/>
+  </PreFlow>
+  <PostFlow name="PostFlow">
+    <Request/>
+    <Response/>
+  </PostFlow>
+  <HTTPTargetConnection>
+    <URL>https://prodapttest.com</URL>
+  </HTTPTargetConnection>
+</TargetEndpoint>
