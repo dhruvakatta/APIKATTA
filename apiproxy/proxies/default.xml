@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<ProxyEndpoint name="default">
+  <PreFlow name="PreFlow">
+    <Request>
+      <Step>
+        <Name>JS-JsonToXml</Name>
+      </Step>
+      <Step>
+        <Name>RL-RateLimit</Name>
+      </Step>
+      <Step>
+        <Name>AM-CORS</Name>
+      </Step>
+    </Request>
+    <Response>
+      <Step>
+        <Name>JS-XmlToJson</Name>
+      </Step>
+      <Step>
+        <Name>RC-ResponseCache</Name>
+      </Step>
+    </Response>
+  </PreFlow>
+  <PostFlow name="PostFlow">
+    <Request/>
+    <Response/>
+  </PostFlow>
+  <HTTPProxyConnection>
+    <BasePath>/asp/v1</BasePath>
+  </HTTPProxyConnection>
+  <RouteRule name="default">
+    <TargetEndpoint>default</TargetEndpoint>
+  </RouteRule>
+</ProxyEndpoint>
