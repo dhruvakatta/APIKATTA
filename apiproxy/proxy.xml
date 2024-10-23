@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="tespapp">
+  <CreatedAt>1729681226227</CreatedAt>
+  <LastModifiedAt>1729681226227</LastModifiedAt>
+  <BasePaths>/asp/v1</BasePaths>
+  <DisplayName>tespapp</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
