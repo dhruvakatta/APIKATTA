@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<APIProxy revision="1" name="proxytest2">
+  <CreatedAt>1729731915878</CreatedAt>
+  <LastModifiedAt>1729731915878</LastModifiedAt>
+  <BasePaths>/version/smv1</BasePaths>
+  <DisplayName>proxytest2</DisplayName>
+  <Description/>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
